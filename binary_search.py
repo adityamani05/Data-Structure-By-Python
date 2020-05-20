@@ -1,6 +1,6 @@
 # Uses python3
 import sys
-
+#method for serch
 def binary_search(a,left,right,x):
     if left > right:
         return -1
